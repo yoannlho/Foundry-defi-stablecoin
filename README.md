@@ -11,7 +11,6 @@ This project is meant to be a stablecoin where users can deposit WETH and WBTC i
 - [Getting Started](#getting-started)
   - [Requirements](#requirements)
   - [Quickstart](#quickstart)
-    - [Optional Gitpod](#optional-gitpod)
 - [Updates](#updates)
 - [Usage](#usage)
   - [Start a local node](#start-a-local-node)
